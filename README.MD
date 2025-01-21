@@ -10,8 +10,6 @@
 4. [Usage](#usage)
    <!-- 7. [API Reference](#api-reference) -->
    <!-- 8. [Contributing](#contributing) -->
-5. [Author Information](#author-information)
-6. [Contact](#contact)
 <!-- 11. [License](#license) -->
 
 ## Introduction
