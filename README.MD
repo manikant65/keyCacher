@@ -112,7 +112,6 @@ CACHE MISS
 
 keyCacher> EXIT
 ```
-## Output
 
 
 
